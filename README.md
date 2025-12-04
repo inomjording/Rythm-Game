@@ -17,3 +17,5 @@ Built using [MonoGame](https://monogame.net). Currently using the font [Early Ga
 5. Open the "game"-folder and run the "RhythmGame"-application.
     1. The computer's security system will probably be upset. Run the application anyways.
     2. It might ask you to download net9.0. This is required to run the application.
+
+Thanks!
